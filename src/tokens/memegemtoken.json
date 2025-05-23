@@ -1,0 +1,15 @@
+{
+  "name": "MemeGemToken",
+  "symbol": "MGT",
+  "address": "3kkLnV3DfprUSpXAzdHFPQSheBEvSjth8EcykA5JYtQQ",
+  "decimals": 9,
+  "chainId": 101,
+  "logoURI": "https://raw.githubusercontent.com/your-github-username/memegemtoken/main/logo.png",
+  "tags": ["utility-token", "memecoin"],
+  "extensions": {
+    "website": "https://memegemtoken.com",
+    "twitter": "https://x.com/MemeGemToken_EN",
+    "telegram": "https://t.me/memegemtoken_officialchannel",
+    "discord": "https://discord.gg/5mkuPvDC"
+  }
+}
